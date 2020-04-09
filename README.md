@@ -4,4 +4,5 @@ im zj thanks
 everything
 time is 
 
-everything is important but
+一切都很重要，但是
+一些东西is
